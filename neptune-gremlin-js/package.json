@@ -24,7 +24,7 @@
     "tinkerpop",
     "graph"
   ],
-  "author": "Eric Z. Beard",
+  "author": "Jacob Mirelez",
   "license": "Apache-2.0",
   "dependencies": {
     "@aws-crypto/sha256-js": "^2.0.1",
