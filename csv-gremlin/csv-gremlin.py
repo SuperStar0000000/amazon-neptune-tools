@@ -14,12 +14,11 @@
 # and limitations under the License.
 
 '''
-@author:     krlawrence
+@author:     jacob
 @copyright:  Amazon.com, Inc. or its affiliates
 @license:    Apache2
-@contact:    @krlawrence
+@contact:    @jacob
 @deffield    created:  2020-11-17
-@deffield    lastUpdated:  2022-06-30
 
 Overview
 --------
